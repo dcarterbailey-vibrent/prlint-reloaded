@@ -9,7 +9,7 @@
     "flat": "^5.0.1",
     "git-rev-sync": "^3.0.2",
     "got": "^11.8.5",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "request": "^2.88.0"
   }
 }
